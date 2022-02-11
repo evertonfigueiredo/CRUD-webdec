@@ -25,7 +25,7 @@ Depois disso utilize o comando para criar as tabelas do banco de dados atraves d
 php artisan migrate:fresh
 ```
 
-Então execute os dois comandos abaixo:
+Então execute o comando abaixo:
 
 ```sh
 npm install 
