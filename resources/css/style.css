@@ -1,0 +1,11 @@
+body{
+    background: red;
+}
+
+#navbar {
+    justify-content: space-around;
+    font-size: 20px;
+}
+p{
+    font-size: 25px;
+}
